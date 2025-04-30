@@ -1,0 +1,11 @@
+.deps
+missing
+config.status
+config.log
+*.cache
+compile
+depcomp
+install-sh
+stamp-*
+aclocal.m4
+Makefile*
